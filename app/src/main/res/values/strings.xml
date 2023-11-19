@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string-array name="Wroclaw">
+        <item>Rynek Wroclaw</item>
+        <item>Date Published:</item>
+        <item>2022</item>
+    </string-array>
+    <string-array name="LosAngeles">
+        <item>Lost Angeles Downtown</item>
+        <item>Date Published:</item>
+        <item>2022</item>
+    </string-array>
+    <string-array name="London">
+        <item>Tower Of London</item>
+        <item>Date Published:</item>
+        <item>2022</item>
+    </string-array>
+
+</resources>
